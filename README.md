@@ -10,10 +10,7 @@ The project requires the following libraries:
 - `matplotlib`
 - `collections` (standard library)
 
-You can install them using pip:
 
-```sh
-pip install numpy matplotlib
 
 ### 💻 Implementation & Technologies
 
